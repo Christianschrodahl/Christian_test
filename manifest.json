@@ -1,9 +1,9 @@
 {
-  "version": 0,
-  "menu": {
-    "serverstatus": {
-      "label": "Server status",
-      "path": "index.html"
+  version: 0,
+  menu: {
+    serverstatus: {
+      label: "Server status",
+      path: "index.html"
     }
   }
 }
