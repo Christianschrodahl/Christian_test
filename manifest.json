@@ -1,7 +1,7 @@
 {
   "version": 0,
-  "tools": {
-    "pinger": {
+  "menu": {
+    "status": {
       "label": "Server status",
       "path": "index.html"
     }
