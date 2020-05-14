@@ -3,7 +3,7 @@
   "menu": {
     "serverstatus": {
       "label": "Server status",
-      "path": "index.html"
+      "path": "index.js"
     }
   }
 }
